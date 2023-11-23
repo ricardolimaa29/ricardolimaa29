@@ -3,9 +3,11 @@
 
 - 🔭 Atualmente eu estou trabalhando como Assistente de TI na empresa JBS
 - 🎓 Fatec - Analise e Desenvolvimento de Sistemas
-- 💻 Desenvolvo sistemas para otimizar as atividades no meu setor de trabalho.
   <br>
-    Tenho facilidade em aprender e estou em constante busca por conhecimento.
+    💻 Desenvolvo sistemas para otimizar as atividades no meu setor de trabalho.
+  
+Experiencia na área de Tecnologia da Informação, com atuação de 4 anos no cargo de Analista de Service Desk. Habilidade em atendimento telefônico em primeiro nível, atendimento via chat, prestação de suporte remoto ao Sistema operacional Windows, abertura de incidentes e requisições, liberação de acesso, gerenciamento de documentações e treinamentos, gestão de mudança, analise de relatório, gerar relatórios gerenciais, criação de documentos internos, procedimentos, liderança de equipes, apresentação de resultados a gestão.
+
 <br>
 
 <div align="center">
@@ -32,7 +34,6 @@
    <a href="https://wa.me/5514997237199" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
    <br>
 
-   
-  ![Snake animation](https://github.com/ricardolimaa29/ricardolimaa29/blob/output/github-contribution-grid-snake.svg)
+  
 
 </div>
