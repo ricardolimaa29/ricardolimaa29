@@ -1,13 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=white&width=650&height=30&lines=print(+%22Ol%C3%A1+dev!+Sejam+Bem+Vindos+ao+meu+GitHub%22+))](https://git.io/typing-svg)
 
 
-- 🔭 Atualmente eu estou trabalhando como Assistente de TI na empresa JBS
-- 🎓 Fatec - Analise e Desenvolvimento de Sistemas
+- 🔭 I'm currently working as an IT Assistant at JBS
+- 🎓 Degree in Systems Analysis and Development - FATEC
   <br>
-    💻 Desenvolvo sistemas para otimizar as atividades no meu setor de trabalho.
   
-Experiencia na área de Tecnologia da Informação, com atuação de 4 anos no cargo de Analista de Service Desk. Habilidade em atendimento telefônico em primeiro nível, atendimento via chat, prestação de suporte remoto ao Sistema operacional Windows, abertura de incidentes e requisições, liberação de acesso, gerenciamento de documentações e treinamentos, gestão de mudança, analise de relatório, gerar relatórios gerenciais, criação de documentos internos, procedimentos, liderança de equipes, apresentação de resultados a gestão.
+Systems developer 
 
+Experience in Information Technology, having worked at Friboi for 4 years. I have skills in Python, SQL, React, HTML and CSS formatting and markup languages, which I use to create systems in my work environment; I also work in Service Desk, analyzing calls, providing remote support, requests, monitoring links, servers, configuring printers focused on the industry, process automation, RPA and equipment repair.
+
+My focus is on developing skills to carry out functions and tasks that require knowledge of technological structure and operation.
 <br>
 
 <div align="center">
