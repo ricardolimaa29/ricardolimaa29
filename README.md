@@ -3,8 +3,8 @@
 
 # 👋 Hi there
 
-I'm Ricardo Lima, a passionate software developer and technology enthusiast. I currently work as an IT Analyst at JBS. </br>
-With more than 4 years of experience in the area, I had the opportunity to work on several interesting projects and explore different technologies.
+I'm Ricardo Lima, a passionate software developer and technology enthusiast. I currently work as a Junior Systems Analyst at Navas. </br>
+With more than 4 years of experience in the area, I have the opportunity to work on several interesting projects and explore different technologies.
 
 “Do, or do not. There is no “try” — Yoda
 
@@ -13,7 +13,7 @@ With more than 4 years of experience in the area, I had the opportunity to work 
 
 Passionate about creating interactive and intuitive user experiences, I am a front-end web developer, combining modern frameworks with best-practice design patterns. I'm currently doing a postgraduate degree at FIB in Agile Software Engineering with an Emphasis on WEB and MOBILE Applications; I'm looking for my first job in web development.
 
-In my professional journey, I proudly work as an IT Analyst at JBS, a position where my technical knowledge has expanded and I have learned to relate to teams. As well as being my first job in the field, I was able to improve and understand the world of multinational companies.
+In my professional journey, I proudly work as a Junior Systems Analyst at Navas, a position where my technical knowledge has expanded and I have learned to relate to teams. As well as being my first job in the field, I was able to improve and understand the world of multinational companies.
 
 Currently in academia, I nurture a unique passion: creating "art" using CSS exclusively. This activity not only improves my technical skills, but also allows me to combine programming and creativity in a unique and captivating way.
 
