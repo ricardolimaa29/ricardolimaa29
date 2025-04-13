@@ -86,6 +86,12 @@ Currently in academia, I nurture a unique passion: creating "art" using CSS excl
 
 ---
 
+<div align="center">
+  <img src="./eu animado.png" alt="Minha versão animada" width="300"/>
+</div>
+<br>
+<p align="center"><i> Thanks for visiting ! 🖖 </i></p>
+
 
 
 </div>
