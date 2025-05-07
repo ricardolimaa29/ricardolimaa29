@@ -2,24 +2,24 @@
 
 ---
 
-# 👋 Hi there
+# 👋 Salve Devs !
 
 <img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
 
-I'm Ricardo Lima, a passionate software developer and technology enthusiast. I currently work as a teacher in SENAI - Santana de Parnaíba. </br>
-With more than 5 years of experience in the area, I have the opportunity to work on several interesting projects and explore different technologies.
+Meu nome é Ricardo Rodrigues Lima, um apaixonado por desenvolvimento de software e entusiasta por tecnologia. Atualmente, trabalho como professor no SENAI ensinando Python para adolescentes do ensino médio em Santana de Parnaíba. </br>
+Com mais de 5 anos de experiência na área de TI, tive a oportunidade de trabalhar em diversos projetos interessantes e explorar diferentes tecnologias.
 
 
 
 ---
 
-# 🚀 Expertise
+# 🚀 Experiências
 
-Passionate about creating interactive and intuitive user experiences, I am a front-end web developer, combining modern frameworks with best-practice design patterns. I'm currently doing a postgraduate degree at Software Engineer Cruzeiro do Sul - EAD; I'm looking for my first job in web development.
+Apaixonado por criar experiências interativas e intuitivas para o usuário, sou desenvolvedor Python Full Stack, combinando frameworks modernos com padrões de design de melhores práticas. Atualmente, estou cursando pós-graduação em Engenharia de Software na Cruzeiro do Sul - EAD; estou sempre atras de serviços, tenho muita disponibilidade para novos projetos.
 
-In my professional journey, I proudly work as a Junior Systems Analyst at Navas, a position where my technical knowledge has expanded and I have learned to relate to teams. As well as being my first job in the field, I was able to improve and understand the world of multinational companies.
+Em minha trajetória profissional, atuei com orgulho como Analista de Sistemas Júnior na Navas, cargo onde meu conhecimento técnico se expandiu e aprendi a me relacionar com equipes. Além de ser meu primeiro emprego na área de desenvolvimento, pude me aprimorar e entender o mundo de empresas multinacionais.
 
-Currently in academia, I nurture a unique passion: creating "art" using CSS exclusively. This activity not only improves my technical skills, but also allows me to combine programming and creativity in a unique and captivating way.
+Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte" usando exclusivamente CSS. Essa atividade não só aprimora minhas habilidades técnicas, como também me permite aliar programação e criatividade de uma forma única e cativante.
 
 ---
 
