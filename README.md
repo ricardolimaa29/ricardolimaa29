@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=white&width=650&height=30&lines=print(+%22Hello+Dev!+Welcome+to+my+Git+Hub%22+))](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=print(+%22Hello+Dev!+Welcome+to+my+Git+Hub%22+))](https://git.io/typing-svg)
+  
 ---
 
 # 👋 Salve Devs !
@@ -23,24 +23,34 @@ Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte"
 
 ---
 
-  # 🌐 Socials:
+# 🌐 Socials:
+<br>
+ <div align="center">
+    <a href="https://www.instagram.com/ricardorlima_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = "180" target="_blank"></a>
+    <a href="https://discord.gg/PXd5WrTh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width = "150" target="_blank"></a> 
+    <a href = "mailto:ricardolimaa65@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  width = "132" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/ricardo-rodrigues-lima-977a5b1a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width = "132" target="_blank"></a> 
+  </div>
+<br>
+
+ ---
  
-  <a href="https://www.instagram.com/ricardorlima_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/PXd5WrTh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:ricardolimaa65@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ricardo-rodrigues-lima-977a5b1a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ # 📈 Estatísticas: 
+
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardolimaa29&layout=compact&langs_count=20&theme=tokyonight" alt="Github top linguagens"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardolimaa29&theme=tokyonight" alt="Github estatísticas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardolimaa29&layout=compact&langs_count=20&theme=neon" width="418" alt="Github top linguagens"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardolimaa29&theme=neon" alt="Github estatísticas"/>
 </div>
 
 ---
 
+ # 🎵 Músicas recem tocadas:
+ 
 <br>
 <div align="center">
   <a href="https://open.spotify.com/user/21k3nye57fpgsxorxbahnht3a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21k3nye57fpgsxorxbahnht3a&count=3&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21k3nye57fpgsxorxbahnht3a&count=2&unique=false" alt="Musicas recem tocadas." width="500"/>
   </a>
 </div>
 
@@ -48,17 +58,17 @@ Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte"
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
 </div>
 
