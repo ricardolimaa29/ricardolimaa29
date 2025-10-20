@@ -41,11 +41,12 @@ Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte"
  ---
  
  # 📈 Estatísticas: 
-
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardolimaa29&layout=compact&langs_count=20&theme=neon" width="418" alt="Github top linguagens"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardolimaa29&theme=neon" alt="Github estatísticas"/>
+  <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardolimaa29&theme=2077"/>
 </div>
 
 ---
@@ -62,20 +63,31 @@ Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte"
 ---
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="15" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="tailwindcss logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
 </div>
+
 
 ---
 
@@ -101,6 +113,11 @@ Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte"
 ---
 
 <p align="center"><i> Thanks for visiting ! 🖖 </i></p>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ricardolimaa29.ricardolimaa29&left_color=light&right_color=cornflowerblue"  />
+</div>
+
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=footer)
