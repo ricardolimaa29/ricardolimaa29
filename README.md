@@ -96,14 +96,19 @@ Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte"
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph.svg">
 </picture>
 
-
-
 ---
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhkcnR6cG14cjB5aWNrcGw3bjA0ZGxhMTI4MGJ4OHpoN2ZscjZ2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u6DUcQbPPRHUAwe2tg/giphy.gif" width="120" alt="Mestre Yoda" />
+
 
 > _"“Do, or do not. There is no “try”"_ 👽
 > — **Yoda**
+
+
+<div align="center" width = 100 height = 100>
+  
+  ![gif](https://github.com/user-attachments/assets/54828ed8-1e3b-45ca-875c-8b37ca47ac4b)
+
+</div>
 
 <br>
 <br>
