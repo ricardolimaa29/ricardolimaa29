@@ -15,7 +15,6 @@ Meu nome é Ricardo Rodrigues Lima, um apaixonado por desenvolvimento de softwar
 Com mais de 5 anos de experiência na área de TI, tive a oportunidade de trabalhar em diversos projetos interessantes e explorar diferentes tecnologias.
 
 
-
 ---
 
 # 🚀 Experiências
@@ -38,7 +37,7 @@ Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte"
   </div>
 <br>
 
- ---
+
  
  # 📈 Estatísticas: 
 <br>
@@ -46,22 +45,11 @@ Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte"
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardolimaa29&layout=compact&langs_count=20&theme=neon" width="418" alt="Github top linguagens"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardolimaa29&theme=neon" alt="Github estatísticas"/>
   <br>
+  <br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardolimaa29&theme=2077"/>
 </div>
-
----
-
- # 🎵 Músicas recem tocadas:
- 
 <br>
-<div align="center">
-  <a href="https://open.spotify.com/user/21k3nye57fpgsxorxbahnht3a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21k3nye57fpgsxorxbahnht3a&count=2&unique=false" alt="Musicas recem tocadas." width="500"/>
-  </a>
-</div>
-
----
-
+<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="12" />
@@ -88,8 +76,19 @@ Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
 </div>
 
+---
+
+ # 🎵 Músicas recem tocadas:
+ 
+<br>
+<div align="center">
+  <a href="https://open.spotify.com/user/21k3nye57fpgsxorxbahnht3a">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21k3nye57fpgsxorxbahnht3a&count=2&unique=false" alt="Musicas recem tocadas." width="500"/>
+  </a>
+</div>
 
 ---
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph-dark.svg">
