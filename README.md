@@ -96,17 +96,17 @@ Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte"
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph.svg">
 </picture>
 
----
 
 
 
-> _"“Do, or do not. There is no “try”"_ 👽
-> — **Yoda**
+
 
 
 <div align="center" width = 100 height = 100>
   
   ![gif](https://github.com/user-attachments/assets/54828ed8-1e3b-45ca-875c-8b37ca47ac4b)
+> _"“Do, or do not. There is no “try”"_ 👽
+> — **Yoda**
 
 </div>
 
