@@ -1,7 +1,7 @@
 <div align="center">
   
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=20&section=header)
-  
+</div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=8A2BE2&background=FF56FF00&center=true&width=435&lines=Tech+Educator+|+Python" alt="Typing SVG" /></a>
 
   
@@ -11,8 +11,13 @@
 
 <img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
 
-Meu nome é Ricardo Rodrigues Lima, um apaixonado por desenvolvimento de software e entusiasta por tecnologia. Atualmente, trabalho como professor no SENAI ensinando Python para adolescentes do ensino médio em Santana de Parnaíba. </br>
-Com mais de 5 anos de experiência na área de TI, tive a oportunidade de trabalhar em diversos projetos interessantes e explorar diferentes tecnologias.
+Meu nome é Ricardo Rodrigues Lima, um apaixonado por desenvolvimento de software e entusiasta por tecnologia. Atualmente, trabalho como professor no SENAI ensinando Python para adolescentes do ensino médio em Santana de Parnaíba.
+<div align="left">
+<details> Com mais de 5 anos de experiência na área de TI, tive a oportunidade de trabalhar em diversos projetos desafiadores, desde o desenvolvimento de sistemas web até a automação de processos internos. Ao longo da minha trajetória, aprofundei meus conhecimentos em linguagens de programação, bancos de dados e infraestrutura em nuvem, sempre buscando soluções eficientes e escaláveis.
+  <summary>Ler mais.</summary>
+</details>
+</div>
+
 
 
 ---
@@ -21,9 +26,14 @@ Com mais de 5 anos de experiência na área de TI, tive a oportunidade de trabal
 
 Apaixonado por criar experiências interativas e intuitivas para o usuário, sou desenvolvedor Python Full Stack, combinando frameworks modernos com padrões de design de melhores práticas. Atualmente, estou cursando pós-graduação em Engenharia de Software na Cruzeiro do Sul - EAD; estou sempre atras de serviços, tenho muita disponibilidade para novos projetos.
 
-Em minha trajetória profissional, atuei com orgulho como Analista de Sistemas Júnior na Navas, cargo onde meu conhecimento técnico se expandiu e aprendi a me relacionar com equipes. Além de ser meu primeiro emprego na área de desenvolvimento, pude me aprimorar e entender o mundo de empresas multinacionais.
+<div align="left">
+<details> Em minha trajetória profissional, atuei com orgulho como Analista de Sistemas Júnior na Navas, cargo onde meu conhecimento técnico se expandiu e aprendi a me relacionar com equipes. Além de ser meu primeiro emprego na área de desenvolvimento, pude me aprimorar e entender o mundo de empresas multinacionais.
 
 Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte" usando exclusivamente CSS. Essa atividade não só aprimora minhas habilidades técnicas, como também me permite aliar programação e criatividade de uma forma única e cativante.
+  <summary>Ler mais.</summary>
+</details>
+</div>
+
 
 ---
 
@@ -42,11 +52,11 @@ Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte"
  # 📈 Estatísticas: 
 <br>
 <div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardolimaa29&theme=2077" width="900"/>
+  <br>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardolimaa29&layout=compact&langs_count=20&theme=neon" width="418" alt="Github top linguagens"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardolimaa29&theme=neon" alt="Github estatísticas"/>
-  <br>
-  <br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardolimaa29&theme=2077"/>
 </div>
 <br>
 <br>
@@ -80,6 +90,14 @@ Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte"
 
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph.svg">
+</picture>
+
+
+
 ---
 
  # 🎵 Músicas recem tocadas:
@@ -92,18 +110,6 @@ Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte"
 </div>
 
 ---
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph.svg">
-</picture>
-
-
-
-
-
 
 
 <div align="center" width = 100 height = 100>
@@ -128,6 +134,8 @@ Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte"
 
 
 
+<div align="center">
+  
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=footer)
 
 </div>
