@@ -13,7 +13,7 @@
 
 Meu nome é Ricardo Rodrigues Lima, um apaixonado por desenvolvimento de software e entusiasta por tecnologia. Atualmente, trabalho como professor no SENAI ensinando Python para adolescentes do ensino médio em Santana de Parnaíba.
 <div align="left">
-<details> Com mais de 5 anos de experiência na área de TI, tive a oportunidade de trabalhar em diversos projetos desafiadores, desde o desenvolvimento de sistemas web até a automação de processos internos. Ao longo da minha trajetória, aprofundei meus conhecimentos em linguagens de programação, bancos de dados e infraestrutura em nuvem, sempre buscando soluções eficientes e escaláveis.
+<details> <br> Com mais de 5 anos de experiência na área de TI, tive a oportunidade de trabalhar em diversos projetos desafiadores, desde o desenvolvimento de sistemas web até a automação de processos internos. Ao longo da minha trajetória, aprofundei meus conhecimentos em linguagens de programação, bancos de dados e infraestrutura em nuvem, sempre buscando soluções eficientes e escaláveis.
   <summary>Ler mais.</summary>
 </details>
 </div>
@@ -27,7 +27,7 @@ Meu nome é Ricardo Rodrigues Lima, um apaixonado por desenvolvimento de softwar
 Apaixonado por criar experiências interativas e intuitivas para o usuário, sou desenvolvedor Python Full Stack, combinando frameworks modernos com padrões de design de melhores práticas. Atualmente, estou cursando pós-graduação em Engenharia de Software na Cruzeiro do Sul - EAD; estou sempre atras de serviços, tenho muita disponibilidade para novos projetos.
 
 <div align="left">
-<details> Em minha trajetória profissional, atuei com orgulho como Analista de Sistemas Júnior na Navas, cargo onde meu conhecimento técnico se expandiu e aprendi a me relacionar com equipes. Além de ser meu primeiro emprego na área de desenvolvimento, pude me aprimorar e entender o mundo de empresas multinacionais.
+<details> <br>  Em minha trajetória profissional, atuei com orgulho como Analista de Sistemas Júnior na Navas, cargo onde meu conhecimento técnico se expandiu e aprendi a me relacionar com equipes. Além de ser meu primeiro emprego na área de desenvolvimento, pude me aprimorar e entender o mundo de empresas multinacionais.
 
 Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte" usando exclusivamente CSS. Essa atividade não só aprimora minhas habilidades técnicas, como também me permite aliar programação e criatividade de uma forma única e cativante.
   <summary>Ler mais.</summary>
