@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=8A2BE2&background=FF56FF00&center=true&width=435&lines=Tech+Educator+|+Python" alt="Typing SVG" /></a>
 </div>
 
-  
+
 ---
 
 # 👋 Salve Devs !
@@ -48,12 +48,17 @@ Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte"
  
  # 📈 Estatísticas: 
 <br>
+
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardolimaa29&theme=neon" alt="Github estatísticas"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardolimaa29&theme=2077" width="900"/>
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardolimaa29&layout=compact&langs_count=20&theme=neon" width="418" alt="Github top linguagens"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardolimaa29&theme=neon" alt="Github estatísticas"/>
+</div>
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardolimaa29&bg_color=000000&color=805ad5&line=805ad5&point=ff00ff&hide_border=true" alt="GitHub Activity Graph"/>
+  </a>
 </div>
 <br>
 <br>
