@@ -1,7 +1,7 @@
 <div align="center">
   
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=20&section=header)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=8A2BE2&background=FF56FF00&center=true&width=435&lines=Tech+Educator+|+Python" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=2000&color=8A2BE2&background=FF56FF00&center=true&width=435&lines=Software+Engineer+|+Python" alt="Typing SVG" /></a>
 </div>
 
 
@@ -11,7 +11,7 @@
 
 <img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
 
-Meu nome é Ricardo Rodrigues Lima, um apaixonado por desenvolvimento de software e entusiasta por tecnologia. Atualmente, trabalho como professor no SENAI ensinando Python para adolescentes do ensino médio em Santana de Parnaíba.
+Meu nome é Ricardo Rodrigues Lima, sou apaixonado por desenvolvimento de software e entusiasta por tecnologia. Tenho experiência com automações, criando soluções que otimizam processos e facilitam tarefas do dia a dia. Já desenvolvi automações para diferentes cenários, sempre buscando eficiência, praticidade e ganho de tempo..
 <div align="left">
 <details> <br> Com mais de 5 anos de experiência na área de TI, tive a oportunidade de trabalhar em diversos projetos desafiadores, desde o desenvolvimento de sistemas web até a automação de processos internos. Ao longo da minha trajetória, aprofundei meus conhecimentos em linguagens de programação, bancos de dados e infraestrutura em nuvem, sempre buscando soluções eficientes e escaláveis.
 </details>
