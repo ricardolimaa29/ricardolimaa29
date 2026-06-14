@@ -5,7 +5,7 @@
 </div>
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 👋 Salve Devs !
 
@@ -19,7 +19,7 @@ Meu nome é Ricardo Rodrigues Lima, sou apaixonado por desenvolvimento de softwa
 
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 🚀 Experiências
 
@@ -32,7 +32,7 @@ Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte"
 </div>
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 🌐 Socials:
 <br>
@@ -104,7 +104,7 @@ Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte"
 
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
  # 🎵 Músicas recem tocadas:
  
@@ -115,7 +115,7 @@ Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte"
   </a>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <div align="center" width = 100 height = 100>
@@ -130,7 +130,7 @@ Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte"
 <br>
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center"><i> Thanks for visiting ! 🖖 </i></p>
 
