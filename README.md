@@ -1,7 +1,7 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=20&section=header)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=2000&color=8A2BE2&background=FF56FF00&center=true&width=435&lines=Software+Engineer+|+Python" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ricardo%20Rodrigues&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20NodeJs%20%7C%20Python%20%7C%20AI%20%7C%20Automation%20%7C%20Infrastructure%20%Services&descAlignY=60&descAlign=50" width="100%"/>
+
 </div>
 
 
@@ -142,7 +142,7 @@ Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte"
 
 <div align="center">
   
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
 
