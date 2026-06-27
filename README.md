@@ -43,7 +43,13 @@ Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte"
     <a href="https://www.linkedin.com/in/ricardo-rodrigues-lima-977a5b1a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width = "132" target="_blank"></a> 
   </div>
 <br>
+<div align="center">
 
+
+</div>
+
+
+---
 
  
  # 📈 Estatísticas: 
@@ -51,15 +57,28 @@ Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte"
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardolimaa29&theme=neon" alt="Github estatísticas"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardolimaa29&theme=2077" width="900"/>
   <br>
   <br>
 </div>
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardolimaa29&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ricardolimaa29&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ricardolimaa29&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ricardolimaa29&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ricardolimaa29&theme=tokyonight&utcOffset=5.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardolimaa29&bg_color=000000&color=805ad5&line=805ad5&point=ff00ff&hide_border=true" alt="GitHub Activity Graph"/>
   </a>
 </div>
+
+
 <br>
 <br>
 <div align="center">
