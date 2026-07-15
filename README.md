@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/main/light.svg">
-  <img alt="Ricardo Lima GitHub" src="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/main/dark.svg">
-</picture>
-
 <div align="center">
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ricardo%20Rodrigues&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20NodeJs%20%7C%20Python%20%7C%20AI%20%7C%20Automation%20%7C%20Infrastructure%20%Services&descAlignY=60&descAlign=50" width="100%"/>
