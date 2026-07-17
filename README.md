@@ -17,6 +17,30 @@ Meu nome é Ricardo Rodrigues Lima, sou apaixonado por desenvolvimento de softwa
 </details>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# 🌟 Featured Projects
+
+<div align="center">
+
+| 🚀 Project | 📖 Description | ⚙️ Technologies |
+|:-----------|:---------------|:----------------|
+| **🗺️ DevRoute API** | API that aggregates technology events from multiple sources, providing a centralized and organized platform for developers. | FastAPI • Python • REST API • JSON |
+| **💼 Portfolio** | Personal portfolio showcasing my projects, skills and professional experience with a modern responsive design. | React • Vite • TypeScript |
+| **🤖 Automation Scripts** | Collection of automations created to optimize repetitive tasks, data processing and workflow management. | Python • Selenium • Pandas |
+| **📱 Mobile Apps** | Cross-platform applications focused on productivity and automation. | Flutter • Flet • Python |
+
+</div>
+
+<div align="center">
+
+
+
+<a href="https://github.com/ricardolimaa29?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
