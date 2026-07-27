@@ -19,7 +19,7 @@ Meu nome é Ricardo Rodrigues Lima, sou apaixonado por desenvolvimento de softwa
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 🌟 Featured Projects
+# 🌟 Projetos em destaque
 
 <div align="center">
 
@@ -58,6 +58,55 @@ Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte"
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🗺️ 2026 Roteiro
+
+```mermaid
+graph TB
+    A[🚀 Senior Backend 2026]
+
+    A --> B[Python Expert]
+    A --> C[Cloud]
+    A --> D[Architecture]
+    A --> E[Infrastructure]
+    A --> F[Career]
+
+    B --> B1[FastAPI]
+    B --> B2[Django]
+    B --> B3[Asyncio]
+    B --> B4[Testing]
+
+    C --> C1[AWS]
+    C --> C2[Docker]
+    C --> C3[Kubernetes]
+
+    D --> D1[DDD]
+    D --> D2[Clean Architecture]
+    D --> D3[Event Driven]
+    D --> D4[Microservices]
+
+    E --> E1[Linux]
+    E --> E2[Nginx]
+    E --> E3[GitHub Actions]
+    E --> E4[Terraform]
+
+    F --> F1[English C1]
+    F --> F2[Open Source]
+    F --> F3[Portfolio]
+    F --> F4[Tech Articles]
+
+    style A fill:#9333EA,stroke:#7C3AED,color:#fff
+
+    style B fill:#3776AB,stroke:#2E5C8A,color:#fff
+    style C fill:#FF9800,stroke:#E67E22,color:#fff
+    style D fill:#2ECC71,stroke:#27AE60,color:#fff
+    style E fill:#1A1B27,stroke:#000000,color:#fff
+    style F fill:#E63946,stroke:#C1121F,color:#fff
+```
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 # 🌐 Socials:
 <br>
  <div align="center">
@@ -73,7 +122,7 @@ Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte"
 </div>
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
  
  # 📈 Estatísticas: 
